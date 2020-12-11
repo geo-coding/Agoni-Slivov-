@@ -1,7 +1,8 @@
 # Agoni-Slivov-
 ndarje dhe bashkim
 
-
+> nr i lendes
+    255/2020
 # Pronari
     Asllan (Adem) Sejdiu    1006885914
 
