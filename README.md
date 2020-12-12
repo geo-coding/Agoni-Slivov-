@@ -49,3 +49,7 @@ ndarje dhe bashkim
         957 (txt)
         PJESË E KOPSHTIT    Arë (2)
 
+> dyfishet
+    8270,8271,8272,8273,8274
+
+
