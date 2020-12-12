@@ -26,16 +26,16 @@ ndarje dhe bashkim
         Gjithsej	-21	m²	Gjithsej	204	m²
 
 
-        Nr.Parc	Siperfaqia	
-            706-1	2537	m²
-            706-2	2499	m²
-            706-3	2823	m²
-            706-4	339 	m²
-            706-5	883	    m²
-            706-6	297	    m²
-            706-7	2703	m²
-            706-8	10546	m²
-        Gjithsej	22627	m²
+    Nr.Parc	Siperfaqia	
+        706-1	2537	m²
+        706-2	2499	m²
+        706-3	2823	m²
+        706-4	339	    m²
+        706-5	883	    m²
+        706-6	296	    m²
+        706-7	2704	m²
+        706-8	10546	m²
+    Gjithsej	22627	m²
 
 
 
