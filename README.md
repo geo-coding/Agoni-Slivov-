@@ -3,8 +3,6 @@ ndarje dhe bashkim
 
 > nr i lendes
     255/2020
-# Pronari
-    Asllan (Adem) Sejdiu    1006885914
 
 # Parcela   
     464-0
@@ -68,3 +66,10 @@ Terasa	6.18
 Gjithsej:	94.04
 
 ```
+# Pronari
+```
+
+Asllan (Adem) Sejdiu    1006885914 Rr."Nezir Behluli"
+
+``` 
+
