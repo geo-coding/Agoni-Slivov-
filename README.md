@@ -69,7 +69,7 @@ Gjithsej:	94.04
 # Pronari
 ```
 
-Asllan (Adem) Sejdiu    1006885914 Rr."Nezir Behluli"
+Asllan (Adem) Sejdiu    1006885914 Rr."Nezir Behluli" +38343869541
 
 ``` 
 
