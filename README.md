@@ -94,3 +94,27 @@ O-00706-3-____-0-1-6-0
 
 ```
 
+# git
+```
+        per-ne/out/asfalt.csv
+        per-ne/out/bunar.csv
+        per-ne/out/e0.csv
+        per-ne/out/e2.csv
+        per-ne/out/garazha.csv
+        per-ne/out/kati1-pikat.csv
+        per-ne/out/kati1-terasa-pikat.csv
+        per-ne/out/kulm.csv
+        per-ne/out/matjet.csv
+        per-ne/out/muri.csv
+        per-ne/out/peme-kurorat.csv
+        per-ne/out/peme.csv
+        per-ne/out/perdhesa-pikat.csv
+        per-ne/out/pishta-kurora.csv
+        per-ne/out/pishta.csv
+        per-ne/out/puset-fekale.csv
+        per-ne/out/puset-uji.csv
+        per-ne/out/rrjeta.csv
+        per-ne/out/rruga.csv
+        per-ne/out/shtyll-elektrike.csv
+        per-ne/out/themel.csv
+```
